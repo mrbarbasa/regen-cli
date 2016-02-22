@@ -1,0 +1,30 @@
+{
+  "name": "regen-cli",
+  "version": "1.0.0",
+  "description": "A file generation CLI for React/Redux apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "node",
+    "express",
+    "sequelize",
+    "webpack",
+    "karma",
+    "mocha",
+    "chai",
+    "travis",
+    "es6"
+  ],
+  "author": "Marifel Barbasa <mrbarbasa@gmail.com> (https://github.com/mrbarbasa)",
+  "license": "MIT",
+  "bin": {
+    "regen": "bin/index.js"
+  },
+  "dependencies": {
+    "commander": "2.9.0"
+  }
+}
